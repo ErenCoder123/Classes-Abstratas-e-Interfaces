@@ -1,0 +1,28 @@
+c:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.GeneratedMSBuildEditorConfig.editorconfig
+c:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.AssemblyInfoInputs.cache
+c:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.AssemblyInfo.cs
+c:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.csproj.CoreCompileInputs.cache
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\bin\Debug\net8.0\TDEAula14.exe
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\bin\Debug\net8.0\TDEAula14.deps.json
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\bin\Debug\net8.0\TDEAula14.runtimeconfig.json
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\bin\Debug\net8.0\TDEAula14.dll
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\bin\Debug\net8.0\TDEAula14.pdb
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.dll
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\refint\TDEAula14.dll
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.pdb
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\TDEAula14.genruntimeconfig.cache
+C:\Ulbra 24(2)\Laboratório de Programação\TDEAula14\obj\Debug\net8.0\ref\TDEAula14.dll
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\bin\Debug\net8.0\TDEAula14.exe
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\bin\Debug\net8.0\TDEAula14.deps.json
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\bin\Debug\net8.0\TDEAula14.runtimeconfig.json
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\bin\Debug\net8.0\TDEAula14.dll
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\bin\Debug\net8.0\TDEAula14.pdb
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.AssemblyInfoInputs.cache
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.AssemblyInfo.cs
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.csproj.CoreCompileInputs.cache
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.dll
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\refint\TDEAula14.dll
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.pdb
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\TDEAula14.genruntimeconfig.cache
+C:\Users\miguel\Documents\facul\aulasC\tdeaula1710\obj\Debug\net8.0\ref\TDEAula14.dll
